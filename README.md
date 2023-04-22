@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">MyBot • Votre bot multi-fonction</h3>
 
-<!--
-**MyBotFR/MyBotFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Crée le : **1/05/2023**
 
-Here are some ideas to get you started:
+- 🌱 Prochaine MAJ : **Aucune MAJ de prévu pour le moment**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤝 Discord Support [MyBot](https://discord.gg/MyBotFR)
+
+- 👨‍💻 **Retrouve toutes nos actualités sur notre discord**
+
+<h3 align="left">Contacter moi</h3>
+<p align="left">
+<a href="https://twitter.com/mybotfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imluni_fr" height="30" width="40" /></a>
+<a href="https://discord.gg/mybotfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="LDLeak" height="30" width="40" /></a>
+</p>
